@@ -1,0 +1,6 @@
+GET /repos/SoftUni-Tech-Module/TestRepository/issues/1 HTTP/1.1
+Host: api.github.com
+Authorization: Basic ZWl2LnJhemdyYWRAZ21haWwuY29tOmRvcmVtaWZhc29sYXNpZG8=
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: f84faaae-21eb-52e6-51bf-fd23e8d765d7
